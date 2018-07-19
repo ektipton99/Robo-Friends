@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Bender",
+    "username": "Bender Bending Rodriguez",
+    "email": "benderisgreat@ilovebender.com", 
+    "image": "./images/bender.png"
+  },
+  {
+    "id": 2,
+    "name": "AWESOM-O",
+    "username": "Eric Cartman",
+    "email": "totallynotcartman@southparkelementary.com", 
+    "image": "./images/awesomo.png"
+  },
+  {
+    "id": 3,
+    "name": "Scratch",
+    "username": "Edgar Eagle",
+    "email": "bwaHAhaHA@robotnik.com", 
+    "image": "./images/scratch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Grounder",
+    "username": "Drillnose",
+    "email": "swissarmybot@robotnik.com", 
+    "image": "./images/grounder.png"
+  },
+  {
+    "id": 5,
+    "name": "Coconuts",
+    "username": "Coco-nerd",
+    "email": "scrubmonkeythirdclass@robotnik.com", 
+    "image": "./images/coconuts.png"
+  },
+  {
+    "id": 6,
+    "name": "R2-D2",
+    "username": "Artoo Deetoo",
+    "email": "deusexrobot@rebelalliance.com", 
+    "image": "./images/r2d2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "C-3PO",
+    "username": "See Threepio",
+    "email": "goldenrod@rebelalliance.com", 
+    "image": "./images/c3po.jpg"
+  },
+  {
+    "id": 8,
+    "name": "K-2SO",
+    "username": "Kay Tooessoh",
+    "email": "theresnohorizon@rebelalliance.com", 
+    "image": "./images/k2so.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Vectorman",
+    "username": "Orbot",
+    "email": "balls2thewall@orbots.com", 
+    "image": "./images/vectorman.png"
+  },
+  {
+    "id": 10,
+    "name": "Claptrap",
+    "username": "CL4P-TP",
+    "email": "deathtohandsomejack@hyperton.com", 
+    "image": "./images/claptrap.jpg"
+  }
+]
